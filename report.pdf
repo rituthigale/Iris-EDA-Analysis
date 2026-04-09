@@ -1,0 +1,27 @@
+EXPLORATORY DATA ANALYSIS REPORT
+Task 3: Iris Dataset Analysis
+
+1. Introduction
+Exploratory Data Analysis (EDA) is used to analyze datasets and summarize their characteristics through statistics and visualizations.
+
+2. Dataset Information
+Dataset Name: Iris Dataset
+Rows: 150
+Columns: 5
+Source: Scikit-learn / Kaggle
+
+3. Summary Statistics
+The dataset includes sepal length, sepal width, petal length, and petal width for different iris flower species.
+
+4. Missing Values
+No missing values were found in the dataset.
+
+5. Correlation Analysis
+Strong positive correlation exists between petal length and petal width.
+
+6. Visualizations
+- Correlation Heatmap
+- Pairplot
+
+7. Conclusion
+The Iris dataset shows clear relationships among flower measurements and allows easy distinction between species based on petal/sepal dimensions.
